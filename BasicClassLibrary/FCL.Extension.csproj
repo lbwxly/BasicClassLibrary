@@ -7,8 +7,8 @@
     <ProjectGuid>{66B558CE-6B40-4E8D-B490-FEF7E43BC8E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BCL</RootNamespace>
-    <AssemblyName>BasicClassLibrary</AssemblyName>
+    <RootNamespace>FCL</RootNamespace>
+    <AssemblyName>FCL.Extension</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
